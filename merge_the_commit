@@ -2,6 +2,5 @@ rm -rf *.out
 git add .
 git status
 echo please write the commit message now...
-read commit_message
-git commit -m $commit_message
+git commit -m $1
 git push
