@@ -10,7 +10,7 @@ void create_a_new_file(char name_of_file[]) {
     fclose(fptr);
 }
 
-void write_to_an_existing_file(char name_of_file[], char text_to_be_written[]) {
+void write_to_an_existing_file(char name_of_file[], string text_to_be_written) {
     ofstream fptr;
     fptr.open(name_of_file, ios::app);
     fptr << text_to_be_written;
@@ -31,25 +31,6 @@ void test_basic_file_operations();
 void test_the_development();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main(void) {
     test_the_development();
     return 0;
@@ -63,12 +44,10 @@ void test_basic_file_operations() {
 }
 
 void test_the_development() {
-    write_to_an_existing_file("auto_generated.cpp", "#include <iostream>");
-    write_to_an_existing_file("auto_generated.cpp", "#include <string>");
-    write_to_an_existing_file("auto_generated.cpp", "using namespace std;");
-    write_to_an_existing_file("auto_generated.cpp", "int main(void) {");
-    write_to_an_existing_file("auto_generated.cpp", "   cout << \"hi\";");
-    write_to_an_existing_file("auto_generated.cpp", "   return 0;");
-    write_to_an_existing_file("auto_generated.cpp", "}");
+    ifstream fptr("template.cpp");
+    string text_in_the_file;
+    while (getline(fptr, text_in_the_file)) {
+        write_to_an_existing_file("auto_generated.cpp", text_in_the_file);
+    }
 }
 
