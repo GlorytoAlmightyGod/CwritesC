@@ -25,6 +25,7 @@ void read_an_existing_file(char name_of_file[]) {
         cout << text_in_the_file;
         cout << endl;
     }
+    fptr.close();
 }
 
 void test_basic_file_operations();
@@ -35,14 +36,14 @@ int main(void) {
     test_the_development();
     return 0;
 }
-
+/*
 void test_basic_file_operations() {
     for(int i=1;i<=10;i++) {
         write_to_an_existing_file("auto_generated.cpp", "----\n");
     }
     read_an_existing_file("auto_generated.cpp");
 }
-
+*/
 void test_the_development() {
     ifstream fptr("template.cpp");
     string text_in_the_file;
