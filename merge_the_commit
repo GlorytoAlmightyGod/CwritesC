@@ -1,6 +1,0 @@
-rm -rf *.out
-git add .
-git status
-echo please write the commit message now...
-git commit -m $1
-git push
