@@ -13,7 +13,7 @@ finite.
 assumes uselessness but is usefull.
 short-liven.
 dirty.
-works.
+works.(it should work, but sometimes it does not.accidentally undoes the work.)
 tested.
 named.
 1-at-a-time.
