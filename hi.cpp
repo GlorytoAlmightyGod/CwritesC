@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <fstream> 
 
 void create_a_new_file(char name_of_file[]) {
     FILE *fptr;
