@@ -1,29 +1,40 @@
 # CwritesC
 
-IT IS TAUGHT ONCE,
-IT KNOWS AT ONCE,
-IT KEEPS FIGURING OUT THE IMPLICATIONS ON EXISTING MEMORY.
-
-    how the memory is to be changed,
-    it needs to learn for itself depending on the problems-environment?
-
-memory itself is FORM+NAME.
-for memory i get to use object oriented programming.
-how can memory be a form?
-    a form is meaningless BUT it has certain meaning.
-    how is this meaning being given in the memory?
-
-how does focusing work?
-
-    there are usefull truths that can be deduced concerning a form.
-            IF these truths are present in a generic case,
-            THEN _that_ is the case.
-        **_this_** runs depending on certain things. 
-
-for example :
+IF IT IS TAUGHT ONCE,
+IT KNOWS AT ONCE.
 
 
-it sees one pair of lines.
-parallel lines.
+---------------------------------------------------------------
+AIM :  a TINY step of a small unit of a grander desired fruit.
+---------------------------------------------------------------
+find the starting and ending brackets of a structure definition.
+i want it to understand what it can do with a structure.
 
-then it itself has to know that all translation and rotational images will be parallel lines.
+
+
+
+
+
+
+small.
+simple.
+easy.
+doable.
+
+incomplete.
+very specific case. not generic.
+hidden.
+new.
+realistic.
+imperfect.
+finite.
+assumes uselessness but is usefull.
+short-lifespan.
+dirty.
+works.(it should work, but sometimes it does not. accidentally undoes the work.)
+tested.
+named.
+1-at-a-time.
+BREAK.
+
+

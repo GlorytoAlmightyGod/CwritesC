@@ -1,0 +1,26 @@
+
+    how the memory is to be changed,
+    it needs to learn for itself depending on the problems-environment?
+
+memory itself is FORM+NAME.
+for memory i get to use object oriented programming.
+how can memory be a form?(CAD models!!)
+    a form is meaningless BUT it has certain meaning.
+    how is this meaning being given in the memory?
+
+how does focusing work?
+    well-informed search seems like intelligence.
+    the search <= what the self can do + what the self wants to be done.
+
+    perception of usefull truths concerning a form.
+            IF these truths are present in a generic case,
+            THEN _that_ is the case. some action step taken.
+        **_this_** runs depending on certain things.
+
+for example :
+
+
+it sees one pair of lines.
+parallel lines.
+
+then it itself has to know that all translation and rotational images will be parallel lines.

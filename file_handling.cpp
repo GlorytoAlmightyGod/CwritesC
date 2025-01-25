@@ -28,6 +28,14 @@ void read_an_existing_file(char name_of_file[]) {
     fptr.close();
 }
 
+void template_copier() {
+    ifstream fptr("template.cpp");
+    string text_in_the_file;
+    while (getline(fptr, text_in_the_file)) {
+        write_to_an_existing_file("auto_generated.cpp", text_in_the_file);
+    }
+}
+
 void test_basic_file_operations();
 void test_the_development();
 
@@ -45,6 +53,7 @@ void test_basic_file_operations() {
 }
 */
 void test_the_development() {
+    // template_copier();
     ifstream fptr("template.cpp");
     string text_in_the_file;
     while (getline(fptr, text_in_the_file)) {
