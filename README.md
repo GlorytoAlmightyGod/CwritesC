@@ -1,29 +1,24 @@
 # CwritesC
 
 IF IT IS TAUGHT ONCE,
-IT KNOWS AT ONCE.
+IT CAN NOT KNOW AT ONCE?
 
 
 ---------------------------------------------------------------
-AIM :  a TINY step of a small unit of a grander desired fruit.
+AIM :  a TINY step
 ---------------------------------------------------------------
-find the starting and ending brackets of a structure definition.
-i want it to understand what it can do with a structure.
-
-
-
-
-
+explore the environment of solving problems.
 
 
 small.
 simple.
 easy.
 doable.
+BREAK.
 
 incomplete.
-very specific case. not generic.
-hidden.
+very specific. not generic.
+hidden. self-evident in what to do.
 new.
 realistic.
 imperfect.
@@ -35,6 +30,5 @@ works.(it should work, but sometimes it does not. accidentally undoes the work.)
 tested.
 named.
 1-at-a-time.
-BREAK.
 
 
