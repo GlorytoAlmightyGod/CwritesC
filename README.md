@@ -7,8 +7,7 @@ IT CAN NOT KNOW AT ONCE?
 ---------------------------------------------------------------
 AIM :  a TINY step
 ---------------------------------------------------------------
-explore the environment of solving problems.
-
+how will the c++ file look if it needs to find a bucket in the house? oops!
 
 small.
 simple.
