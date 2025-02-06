@@ -7,12 +7,13 @@ IT CAN NOT KNOW AT ONCE?
 ---------------------------------------------------------------
 AIM :  a TINY step
 ---------------------------------------------------------------
-how will the c++ file look if it needs to find a bucket in the house? oops!
+how will the c++ file look if it needs to find a bucket in the house?
 
 small.
 simple.
 easy.
 doable.
+assume.
 BREAK.
 
 incomplete.

@@ -2,12 +2,10 @@
 #include <string>
 using namespace std;
 
-string that_which_is_worth_knowing[4];
-string that_which_is_NOT_worth_knowing[4];
+#define MEMORY_POWER 4
 
-string that_which_the_self_can_do[4];
-string that_which_the_self_can_NOT_do[4];
-
+string that_which_is_worth_knowing[MEMORY_POWER];
+string that_which_is_NOT_worth_knowing[MEMORY_POWER];
 
 void hello_world(string input) {
     if(input == "i am a secret!") {
@@ -31,22 +29,21 @@ void show_the_data(string data[], int length_of_array) {
 void wake_the_data_up() {
     that_which_is_worth_knowing[0] = "that_which_is_worth_knowing";
     that_which_is_NOT_worth_knowing[0] = "that_which_is_NOT_worth_knowing";
-    that_which_the_self_can_do[0] = "that_which_the_self_can_do";
-    that_which_the_self_can_NOT_do[0] = "that_which_the_self_can_NOT_do";
 }
 
 int main(void) {
     wake_the_data_up();
 
-   cout << "HI please give me a sentence.";
-   cout << endl;
-   
-   string user_input;
-   getline(cin, user_input);
-   hello_world(user_input);
+    cout << "Hello, World! please give me a sentence.";
+    cout << endl;
+    
+    string user_input;
+    getline(cin, user_input);
+    hello_world(user_input);
 
 
-    show_the_data(that_which_is_worth_knowing, 4);
-    show_the_data(that_which_is_NOT_worth_knowing, 4);
-   return 0;
+    show_the_data(that_which_is_worth_knowing, MEMORY_POWER);
+    show_the_data(that_which_is_NOT_worth_knowing, MEMORY_POWER);
+    
+    return 0;
 }
