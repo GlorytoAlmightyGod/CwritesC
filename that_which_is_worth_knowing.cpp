@@ -5,7 +5,6 @@ using namespace std;
 #define MEMORY_POWER 4
 
 string that_which_is_worth_knowing[MEMORY_POWER];
-string that_which_is_NOT_worth_knowing[MEMORY_POWER];
 
 void hello_world(string input) {
     if(input == "i am a secret!") {
@@ -18,9 +17,9 @@ void hello_world(string input) {
     }
 }
 
-void show_the_data(string data[], int length_of_array) {
+void show_the_data(string data[]) {
     cout << "here is the data : ";
-    for(int i = 0; i < length_of_array; i++) {
+    for(int i = 0; i < MEMORY_POWER; i++) {
         cout << data[i] << endl;
     }
     cout << endl;
@@ -28,7 +27,6 @@ void show_the_data(string data[], int length_of_array) {
 
 void wake_the_data_up() {
     that_which_is_worth_knowing[0] = "that_which_is_worth_knowing";
-    that_which_is_NOT_worth_knowing[0] = "that_which_is_NOT_worth_knowing";
 }
 
 int main(void) {
@@ -42,8 +40,7 @@ int main(void) {
     hello_world(user_input);
 
 
-    show_the_data(that_which_is_worth_knowing, MEMORY_POWER);
-    show_the_data(that_which_is_NOT_worth_knowing, MEMORY_POWER);
+    show_the_data(that_which_is_worth_knowing);
     
     return 0;
 }

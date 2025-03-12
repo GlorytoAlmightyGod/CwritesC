@@ -1,13 +1,12 @@
 # CwritesC
 
-IF IT IS TAUGHT ONCE,
-IT CAN NOT KNOW AT ONCE?
-
-
----------------------------------------------------------------
+O darling,
+    i know that FAILURE FEEDS SUCCESS.
+    but SUCCESS FEEDS SUCCESS also!
+--------------------------
 AIM :  a TINY step
----------------------------------------------------------------
-how will the c++ file look if it needs to find a bucket in the house?
+--------------------------
+how will the generic class type for ANY thing look like?
 
 small.
 simple.
