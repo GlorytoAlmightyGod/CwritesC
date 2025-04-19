@@ -27,15 +27,6 @@ in the given problems-environment,
         that which is worth knowing.
             that which is NOT worth knowing.
 
-        that which is worth doing.
-            that which is NOT worth doing.
-
-        that which is significant.
-            that which is NOT significant.
-
-        that which can change.
-            that which can NOT change.
-
         that which the self does want to be done.
             that which the self does NOT want to be done.
 
@@ -46,8 +37,11 @@ in the given problems-environment,
             that which the self can NOT access.
             (how the self can change THIS.)
 
-        that which the self does do.
-            that which the self does NOT do.
+        that which is worth doing.
+            that which is NOT worth doing.
+
+        that which is significant.
+            that which is NOT significant.
 
         that which the self is doing.
             that which the self is NOT doing.

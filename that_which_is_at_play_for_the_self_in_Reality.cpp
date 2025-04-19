@@ -6,20 +6,20 @@ using namespace std;
 
 #define MEMORY_POWER 10
 
-string that_which_is_at_play_for_the_self_in_Reality[MEMORY_POWER];
+string that_which_is_at_play_for_the_self_in_Reality[1+MEMORY_POWER];
 
 string find_my_object(string object_to_be_found, string filename) {
 
     cout << "searching in : " << filename << endl;
     
     ifstream fptr(filename);
-    for(int index = 0; index < MEMORY_POWER; index++) {
+    for(int index = 1; index <= MEMORY_POWER; index++) {
         getline(fptr, that_which_is_at_play_for_the_self_in_Reality[index]);
     }
 
     string perception_of_the_object = "FAILED to find the object.";
     
-    for (int i = 0; i < MEMORY_POWER; i++) {
+    for (int i = 1; i <= MEMORY_POWER; i++) {
         if(that_which_is_at_play_for_the_self_in_Reality[i] == object_to_be_found) {
             perception_of_the_object = "SUCCESS! object encountered.";
             break;
@@ -33,7 +33,6 @@ void show_the_data(string data[], int length_of_array) {
     for(int i = 0; i < length_of_array; i++) {
         cout << data[i] << endl;
     }
-    cout << endl;
 }
 
 void wake_the_data_up() {

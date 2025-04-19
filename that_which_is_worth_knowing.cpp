@@ -2,9 +2,9 @@
 #include <string>
 using namespace std;
 
-#define MEMORY_POWER 4
+#define MEMORY_POWER 3
 
-string that_which_is_worth_knowing[MEMORY_POWER];
+string that_which_is_worth_knowing[1+MEMORY_POWER];
 
 void hello_world(string input) {
     if(input == "i am a secret!") {
@@ -19,7 +19,7 @@ void hello_world(string input) {
 
 void show_the_data(string data[]) {
     cout << "here is the data : ";
-    for(int i = 0; i < MEMORY_POWER; i++) {
+    for(int i = 0; i <= MEMORY_POWER; i++) {
         cout << data[i] << endl;
     }
     cout << endl;
