@@ -1,12 +1,28 @@
 # CwritesC
 
-O darling,
-    i know that FAILURE FEEDS SUCCESS.
-    but SUCCESS FEEDS SUCCESS also!
+i know that FAILURE FEEDS SUCCESS.
+but O darling,
+SUCCESS FEEDS SUCCESS also!
+
+
 --------------------------
 AIM :  a TINY step
 --------------------------
-how will the generic class type for ANY thing look like?
+Reality is the ultimate context.
+context is just a collection of variables...
+    1. perception of vital IF-THEN relationships,
+    2. proper function calling,
+    3. proper variable declaration,
+    4. usage of NOT.
+can take the self a loooong way...
+
+
+
+
+
+
+
+
 
 small.
 simple.
