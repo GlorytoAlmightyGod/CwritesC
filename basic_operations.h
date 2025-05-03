@@ -26,7 +26,7 @@ void wake_the_data_up(string data[], string data_name) {
 
 void show_the_data(string data[]) {
     cout << "here is the data : " << data[0] << endl;
-    for(int i = 1; i <= MEMORY_POWER; i++) {
+    for(int i = 1; i <= MEMORY_POWER && data[i] != ""; i++) {
         cout << data[i] << endl;
     }
 }

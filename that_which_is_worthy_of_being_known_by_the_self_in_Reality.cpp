@@ -12,7 +12,6 @@ void hello_world(string input) {
         that_which_is_worthy_of_being_known_by_the_self_in_Reality[8] = "God is blissfull.";
         that_which_is_worthy_of_being_known_by_the_self_in_Reality[9] = "God is simple.";
         that_which_is_worthy_of_being_known_by_the_self_in_Reality[10] = "God is smiling.";
-
     } else {
         that_which_is_worthy_of_being_known_by_the_self_in_Reality[1] = "you are not worthy.";
     }
