@@ -1,8 +1,8 @@
 # CwritesC
 
+in order to attain freedom from fear,
 i know that FAILURE FEEDS SUCCESS.
-but O darling,
-SUCCESS FEEDS SUCCESS also!
+but O darling, SUCCESS FEEDS SUCCESS also!
 
 
 --------------------------
@@ -11,8 +11,8 @@ AIM :  a TINY step
 Reality is the ultimate context.
 context is just a collection of variables...
     1. perception of vital IF-THEN relationships,
-    2. proper function calling,
-    3. proper variable declaration,
+    2. proper variable(property perception) declaration,
+    3. proper function calling,
     4. usage of NOT.
 can take the self a loooong way...
 
