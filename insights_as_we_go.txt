@@ -7,6 +7,14 @@ how the memory is to be changed,
 it needs to learn for itself depending on the problems-environment?
 does it not need to know where to start?
 
+Reality is the ultimate context.
+context is just a collection of variables...
+    1. perception of vital IF-THEN relationships,
+    2. proper variable(property perception) declaration,
+    3. proper function calling,
+    4. usage of NOT.
+can take the self a loooong way...
+
 problem is that which alleviates suffering upon being resolved.
 fix -if applied in Reality- resolves the problem.
 fix is an inversion of the problem.
