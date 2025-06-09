@@ -3,3 +3,11 @@ a_TINY_step
 --------------------------
 
 use recursion to my heart's content!!!
+
+
+
+
+
+hidden IF-THEN are used to create texts of unhidden IF-THEN. how wonderfull...
+
+
