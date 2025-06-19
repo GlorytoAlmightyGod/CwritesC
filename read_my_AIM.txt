@@ -1,13 +1,25 @@
 -----------------------------------------------------------
 a_TINY_step : small. easy. simple. BREAK.
 -----------------------------------------------------------
+(in basic_operations.h)
 
-use recursion to my heart's content!!!
+for(i=1;i<=MEMORY_POWER;i++){
+    if(the_perception_is_done_of(how_it_can_be_done(that_which_is_wanted_to_be_done_by_the_self_in_Reality[i])) != NULL) {
 
+    }
+}
 
-
+for(i=1;i<=MEMORY_POWER;i++){
+    for(j=1;j<=MEMORY_POWER;j++){
+        if(that_which_is_wanted_to_be_done_by_the_self_in_Reality[i] == that_which_the_self_can_get_done_in_Reality[j]) {
+            execute(that_which_the_self_can_get_done_in_Reality[j]);
+            break;
+        }
+    }
+}
 
 
 hidden IF-THEN are used to create texts of unhidden IF-THEN. how wonderfull...
+use recursion to my heart's content!!!
 
 
