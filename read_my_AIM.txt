@@ -19,7 +19,9 @@ for(i=1;i<=MEMORY_POWER;i++){
 }
 
 understanding the WHY is the key.
-we build it in a way that what we call as context is very very very flexible in memory. full of properties of things and what the self can and can not do.(perception also)
+we build it in a way that what we call as context is very very very flexible in memory.
+full of properties of things and what the self can and can not do.(perception also)
+using functions as well as loops for the same work-item.
 
 hidden IF-THEN are used to create texts of unhidden IF-THEN. how wonderfull...
 use recursion to my heart's content!!!
