@@ -19,4 +19,6 @@ string that_which_the_self_is_in_Reality[1+MEMORY_POWER];
 string that_which_the_self_is_NOT_in_Reality[1+MEMORY_POWER];
 
 bool is_there_ANY_other_way_than_this_in_which_that_can_be;
-bool does_it_make_ANY_sense_to_do_that_thing_which_i_can_do_in_order_to_gain_an_impact_on_that_which_is_significant;
+bool does_it_make_ANY_sense_to_do_that_thing_which_i_can_do;
+
+string why_is_it_what_it_is[1+MEMORY_POWER][40];

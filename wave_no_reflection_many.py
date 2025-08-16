@@ -46,7 +46,7 @@ def update(frame):
     y[:] += my_new_wave(1*amplitude, 0.5*wavelength, "up", "forward", 1*birthtime, 0*L, 2*speed, x, frame)
     y[:] += my_new_wave(1*amplitude, 1*wavelength, "up", "forward", 3*birthtime, 0*L, 6*speed, x, frame)
     y[:] += my_new_wave(1*amplitude, 1.5*wavelength, "up", "forward", 5*birthtime, 0*L, 10*speed, x, frame)
-    
+
 
     y[:] += my_new_wave(1*amplitude, 0.5*wavelength, "down", "backward", 1*birthtime, 1*L, 2*speed, x, frame)
     y[:] += my_new_wave(1*amplitude, 1*wavelength, "down", "backward", 3*birthtime, 1*L, 6*speed, x, frame)
